@@ -216,4 +216,5 @@
 12. promise跨域
 13. vue双向绑定原理
 14. vue和react的区别
+15.获取URL并将URL解析成对象
 
